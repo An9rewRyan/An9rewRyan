@@ -53,5 +53,5 @@
 <h3> Top languages </h3>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=An9rewRyan&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff">
 
-# Contacts
+# Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Michael_J_Goldberg)
