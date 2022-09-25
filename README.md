@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4200&pause=49&color=FFFFFF&background=831010&center=true&vCenter=true&width=1000&height=300&lines=Hello%2C+my+name+is+Michael+Goldberg!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
+# About me:
+- I am team player, communicative and responsible
+- Got used to fast explore new technologies via documentation
+- Never leave problem without solution
+- Creative when it's necessary
+- Always thinking before doing
+
 # My main projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Securepass-project&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true)](https://github.com/An9rewRyan/Securepass-project)
@@ -10,11 +17,12 @@
 # My tech stack:
 ### Python
 [![selenium - v1.3](https://img.shields.io/badge/selenium-v1.3-darkgreen)](https://selenium-python.readthedocs.io/)
-[![Django  - v4.1.1](https://img.shields.io/badge/Django_-v4.1.1-1f454d)](https://www.djangoproject.com/)
-[![Django rest framework - v3.14.0](https://img.shields.io/badge/Django_rest_framework-v3.14.0-31402f)](https://www.django-rest-framework.org/)
-[![Django Channels - v3.0.5](https://img.shields.io/badge/Django_Channels-v3.0.5-5d8d5d)](https://channels.readthedocs.io/en/stable/)
-[![Django Allauth - v0.43.0](https://img.shields.io/badge/Django_Allauth-v0.43.0-b4d6ad)](https://django-allauth.readthedocs.io/en/latest/)
-[![scrapy - v2.6.2](https://img.shields.io/badge/scrapy-v2.6.2-green)](https://scrapy.org/)
+<!-- [![Django  - v4.1.1](https://img.shields.io/badge/Django_-v4.1.1-1f454d)](https://www.djangoproject.com/) -->
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/django%20rest%20framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django Channels](https://img.shields.io/badge/django%20channels-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django Allauth](https://img.shields.io/badge/django%20allauth-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-00A1E0?style=for-the-badge)
 
 ### Golang
 [![gorilla/mux - v1.8.0](https://img.shields.io/badge/gorilla%2Fmux-v1.8.0-3a95a8)](https://github.com/gorilla/mux)
@@ -45,3 +53,6 @@
 
 <h3> Top languages </h3>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=An9rewRyan&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff">
+
+# Contacts
+
