@@ -2,15 +2,9 @@
 
 # My main projects:
 
-### Secured password storage
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Securepass-project&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true)](https://github.com/An9rewRyan/Securepass-project)
-
-### Game news agregator aka Gamers-gazette
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-golang-backend-api&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true)](https://github.com/An9rewRyan/Gamers-Gazette-golang-backend-api)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-frontend-react&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true )](https://github.com/An9rewRyan/Gamers-Gazette-frontend-react)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=golang_game_news_parser&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true )](https://github.com/An9rewRyan/golang_game_news_parser)
 
 
