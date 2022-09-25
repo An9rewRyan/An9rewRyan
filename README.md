@@ -45,5 +45,3 @@
 
 <h3> Top languages </h3>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=An9rewRyan&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff">
-
-<img src=banner.png>
