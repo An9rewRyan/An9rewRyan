@@ -1,5 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4200&pause=49&color=FFFFFF&background=831010&center=true&vCenter=true&width=1000&height=300&lines=Hello%2C+my+name+is+Michael+Goldberg!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
+# My tech stack:
+### Python
+[![Django - v4.1.1](https://img.shields.io/badge/Django-v4.1.1-green)](https://www.djangoproject.com/)
+[![Django rest framework - v3.14.0](https://img.shields.io/badge/Django_rest_framework-v3.14.0-darkgreen)](https://www.django-rest-framework.org/)
+### Golang
+
+
+
 # My main projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Securepass-project&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true)](https://github.com/An9rewRyan/Securepass-project)
