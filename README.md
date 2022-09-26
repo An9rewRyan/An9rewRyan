@@ -4,7 +4,7 @@
 
  <li>📃 Got used to fast explore new technologies via documentation (but prefer learning by practice) </li> 
 
- <li>🛠️ Never leave problem without </li>
+ <li>🛠️ Never leave problem without solution </li>
  
  <li>💡 Creative when it's necessary </li>
  
