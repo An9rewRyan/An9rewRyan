@@ -1,20 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4200&pause=49&color=FFFFFF&background=831010&center=true&vCenter=true&width=1000&height=300&lines=Hello%2C+my+name+is+Michael+Goldberg!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-# About me:
-- I am teamplayer, communicative and responsible
-- Got used to fast explore new technologies via documentation
-- Never leave problem without solution
-- Creative when it's necessary
-- Always thinking before doing
+<h1>💁 About me: </h1>
+ 📃 Got used to fast explore new technologies via documentation (but prefer learning by practice)  
+ 
+ 🛠️ Never leave problem without solution  
+ 
+ 💡 Creative when it's necessary  
+ 
+ 🤔 Always thinking before doing  
+ 
+ 🗃️ Like to organize staff and work in team
 
-# My main projects:
+# My top projects: 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Securepass-project&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true)](https://github.com/An9rewRyan/Securepass-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-golang-backend-api&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true)](https://github.com/An9rewRyan/Gamers-Gazette-golang-backend-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-frontend-react&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true )](https://github.com/An9rewRyan/Gamers-Gazette-frontend-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=golang_game_news_parser&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true )](https://github.com/An9rewRyan/golang_game_news_parser)
 
-# My tech stack:
+# My tech stack: 
 ### Python
 [![selenium - v1.3](https://img.shields.io/badge/selenium-v1.3-darkgreen)](https://selenium-python.readthedocs.io/)
 [![Django  - v4.1.1](https://img.shields.io/badge/Django_-v4.1.1-1f454d)](https://www.djangoproject.com/)
@@ -39,7 +43,7 @@
 [![Git - v2.37.3](https://img.shields.io/badge/Git-v2.37.3-orange)](https://www.github.com/)
 [![Ubuntu - v20.04](https://img.shields.io/badge/Ubuntu-v20.04-yellow)](https://ubuntu.com/blog/tag/ubuntu-20-04)
 
-# My stats:
+# My stats :
 
 <h3> Contribution graph  </h3>
 <img src = "https://activity-graph.herokuapp.com/graph?username=An9rewRyan&line=E50914&theme=github&bg_color=0d1117&hide_border=true&hide_title=true">
