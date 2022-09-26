@@ -31,9 +31,28 @@
 </a>
 
 <h1>🖥️ My tech stack: </h1>
+</br>
+<a href="https://www.postgresql.org/">
+ <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</a>
+
+<a href="https://www.docker.com/"> 
+ <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</a>
+
+<a href="https://www.github.com/">
+ <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+<a href ="https://ubuntu.com/blog/tag/ubuntu-20-04">
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</a>
+
+</br>
+</br>
+</br>
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-
 <a href="https://www.djangoproject.com/">
  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </a>
@@ -60,8 +79,8 @@
 
 </br>
 </br>
+</br>
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-
 <a href="https://github.com/gorilla/mux">
  <img src="https://img.shields.io/badge/gorilla%2Fmux-v1.8.0-3a95a8">
 </a>
@@ -75,9 +94,9 @@
 </a>
 </br>
 </br>
+</br>
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-
 <a href="https://reactjs.org/">
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </a>             
@@ -90,31 +109,23 @@
  <img src="https://img.shields.io/badge/puppeteer-v13.5.2-a70b0b">
 </a>
 
-### Other:
 
-<a href="https://www.postgresql.org/">
- <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-</a>
 
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+<h1>📊 My stats: </h1>
 
-[![docker - v20.10](https://img.shields.io/badge/docker-v20.10-darkviolet)](https://www.docker.com/)
-[![Git - v2.37.3](https://img.shields.io/badge/Git-v2.37.3-orange)](https://www.github.com/)
-[![Ubuntu - v20.04](https://img.shields.io/badge/Ubuntu-v20.04-yellow)](https://ubuntu.com/blog/tag/ubuntu-20-04)
-
-# My stats :
-
-<h3> Contribution graph  </h3>
+<h3>📈 Contribution graph:  </h3>
 <img src = "https://activity-graph.herokuapp.com/graph?username=An9rewRyan&line=E50914&theme=github&bg_color=0d1117&hide_border=true&hide_title=true">
 
-<h3>  Streak counter </h3>
+<h3>🌟 Streak counter: </h3>
 <img src = "https://streak-stats.demolab.com/?user=An9rewRyan&theme=dark&hide_border=true&background=0d1117&ring=E50914&fire=E50914&currStreakLabel=ffffff">
 
-<h3> Github stats </h3>
+<h3>💾 Github stats: </h3>
 <img src = "https://github-readme-stats.vercel.app/api?username=An9rewRyan&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=E50914&icon_color=E50914&hide_border=true&hide_title=true">
 
-<h3> Top languages </h3>
+<h3>🤖 Top languages: </h3>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=An9rewRyan&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff">
 
-# Contact me:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Michael_J_Goldberg)
+<h1>🤙 Call me:</h1>
+<a href="https://t.me/Michael_J_Goldberg">
+ <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
