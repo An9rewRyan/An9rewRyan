@@ -13,32 +13,91 @@
  <li>🗃️ Like to organize staff and work in team </li>
 
 <h1>🔥 My top projects: </h1>
-<a href="https://github.com/An9rewRyan/Securepass-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Securepass-project&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true"> </a>
-<a href="https://github.com/An9rewRyan/Gamers-Gazette-golang-backend-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-golang-backend-api&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true"></a>   
-<a href="https://github.com/An9rewRyan/Gamers-Gazette-frontend-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-frontend-react&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true"></a>
-<a href="https://github.com/An9rewRyan/golang_game_news_parser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=golang_game_news_parser&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true"></a>
 
-<h1> My tech stack: </h1>
-<h3> Python </h3>
-<a href="https://selenium-python.readthedocs.io/"><img src="https://img.shields.io/badge/selenium-v1.3-darkgreen"></a>
-<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django_-v4.1.1-1f454d"></a>
-<a href="https://www.django-rest-framework.org/"><img src="https://img.shields.io/badge/Django_rest_framework-v3.14.0-31402f"></a>
-[![Django Channels - v3.0.5](https://img.shields.io/badge/Django_Channels-v3.0.5-5d8d5d)](https://channels.readthedocs.io/en/stable/)
-[![Django Allauth - v0.43.0](https://img.shields.io/badge/Django_Allauth-v0.43.0-b4d6ad)](https://django-allauth.readthedocs.io/en/latest/)
-[![scrapy - v2.6.2](https://img.shields.io/badge/scrapy-v2.6.2-green)](https://scrapy.org/)
+<a href="https://github.com/An9rewRyan/Securepass-project">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Securepass-project&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
+</a>
 
-### Golang
-[![gorilla/mux - v1.8.0](https://img.shields.io/badge/gorilla%2Fmux-v1.8.0-3a95a8)](https://github.com/gorilla/mux)
-[![Htmlquery  - v1.2.4](https://img.shields.io/badge/Htmlquery-v1.2.4-4fa8e0)](https://github.com/antchfx/htmlquery)
-[![pgx - v4.14.0](https://img.shields.io/badge/pgx-v4.14.0-8cefff)](https://github.com/JackC/pgx)
+<a href="https://github.com/An9rewRyan/Gamers-Gazette-golang-backend-api">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-golang-backend-api&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
+</a>  
 
-### Javascript (basic html, css and json included)
-[![react - v18.2.0](https://img.shields.io/badge/react-v18.2.0-471142)](https://reactjs.org/)
-[![express - v4.17.3](https://img.shields.io/badge/express-v4.17.3-812323)](https://expressjs.com/)
-[![puppeteer - v13.5.2](https://img.shields.io/badge/puppeteer-v13.5.2-a70b0b)](https://www.npmjs.com/package/puppeteer)
+<a href="https://github.com/An9rewRyan/Gamers-Gazette-frontend-react">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-frontend-react&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
+</a>
+
+<a href="https://github.com/An9rewRyan/golang_game_news_parser">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=golang_game_news_parser&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
+</a>
+
+<h1>🖥️ My tech stack: </h1>
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
+<a href="https://www.djangoproject.com/">
+ <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+</a>
+
+<a href="https://www.django-rest-framework.org/">
+ <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
+</a>
+
+<a href="https://selenium-python.readthedocs.io/">
+ <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+</a>
+
+<a href="https://channels.readthedocs.io/en/stable/">
+ <img src="https://img.shields.io/badge/Django_Channels-v3.0.5-5d8d5d">
+</a>
+
+<a href="https://django-allauth.readthedocs.io/en/latest/">
+ <img src="https://img.shields.io/badge/Django_Allauth-v0.43.0-b4d6ad">
+</a>
+
+<a href="https://scrapy.org/">
+ <img src="https://img.shields.io/badge/scrapy-v2.6.2-green">
+</a>
+
+</br>
+</br>
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+
+<a href="https://github.com/gorilla/mux">
+ <img src="https://img.shields.io/badge/gorilla%2Fmux-v1.8.0-3a95a8">
+</a>
+
+<a href="https://github.com/antchfx/htmlquery">
+ <img src="https://img.shields.io/badge/Htmlquery-v1.2.4-4fa8e0">
+ </a>
+ 
+<a href="https://github.com/JackC/pgx">
+ <img src="https://img.shields.io/badge/pgx-v4.14.0-8cefff">
+</a>
+</br>
+</br>
+
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+
+<a href="https://reactjs.org/">
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</a>             
+
+<a href="https://expressjs.com/">
+ <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+</a>
+
+<a href="https://www.npmjs.com/package/puppeteer">
+ <img src="https://img.shields.io/badge/puppeteer-v13.5.2-a70b0b">
+</a>
 
 ### Other:
-[![postgresql - v14.5](https://img.shields.io/badge/postgresql-v14.5-darkblue)](https://www.postgresql.org/)
+
+<a href="https://www.postgresql.org/">
+ <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</a>
+
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+
 [![docker - v20.10](https://img.shields.io/badge/docker-v20.10-darkviolet)](https://www.docker.com/)
 [![Git - v2.37.3](https://img.shields.io/badge/Git-v2.37.3-orange)](https://www.github.com/)
 [![Ubuntu - v20.04](https://img.shields.io/badge/Ubuntu-v20.04-yellow)](https://ubuntu.com/blog/tag/ubuntu-20-04)
