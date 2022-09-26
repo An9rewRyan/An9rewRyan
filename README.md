@@ -1,22 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4200&pause=49&color=FFFFFF&background=831010&center=true&vCenter=true&width=1000&height=300&lines=Hello%2C+my+name+is+Michael+Goldberg!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <h1>💁 About me: </h1>
- 📃 Got used to fast explore new technologies via documentation (but prefer learning by practice)  
- 
- 🛠️ Never leave problem without solution  
- 
- 💡 Creative when it's necessary  
- 
- 🤔 Always thinking before doing  
- 
- 🗃️ Like to organize staff and work in team
+ <li>📃 Got used to fast explore new technologies via documentation (but prefer learning by practice)  
 
-# My top projects: 
+ <li>🛠️ Never leave problem without 
+ 
+ <li>💡 Creative when it's necessary 
+ 
+ <li>🤔 Always thinking before doing 
+ 
+ <li>🗃️ Like to organize staff and work in team 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Securepass-project&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true)](https://github.com/An9rewRyan/Securepass-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-golang-backend-api&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true)](https://github.com/An9rewRyan/Gamers-Gazette-golang-backend-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-frontend-react&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true )](https://github.com/An9rewRyan/Gamers-Gazette-frontend-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=golang_game_news_parser&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true )](https://github.com/An9rewRyan/golang_game_news_parser)
+<h1>🔥 My top projects: <h1/>
+<a href="https://github.com/An9rewRyan/Securepass-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Securepass-project&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
+<a href="https://github.com/An9rewRyan/Gamers-Gazette-golang-backend-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-golang-backend-api&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
+<a href="https://github.com/An9rewRyan/Gamers-Gazette-frontend-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-frontend-react&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
+<a href="https://github.com/An9rewRyan/golang_game_news_parser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=golang_game_news_parser&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
 
 # My tech stack: 
 ### Python
