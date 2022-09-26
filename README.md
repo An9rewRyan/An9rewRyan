@@ -1,27 +1,28 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4200&pause=49&color=FFFFFF&background=831010&center=true&vCenter=true&width=1000&height=300&lines=Hello%2C+my+name+is+Michael+Goldberg!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <h1>💁 About me: </h1>
- <li>📃 Got used to fast explore new technologies via documentation (but prefer learning by practice)  
 
- <li>🛠️ Never leave problem without 
- 
- <li>💡 Creative when it's necessary 
- 
- <li>🤔 Always thinking before doing 
- 
- <li>🗃️ Like to organize staff and work in team 
+ <li>📃 Got used to fast explore new technologies via documentation (but prefer learning by practice) </li> 
 
-<h1>🔥 My top projects: <h1/>
-<a href="https://github.com/An9rewRyan/Securepass-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Securepass-project&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
-<a href="https://github.com/An9rewRyan/Gamers-Gazette-golang-backend-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-golang-backend-api&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
-<a href="https://github.com/An9rewRyan/Gamers-Gazette-frontend-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-frontend-react&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
-<a href="https://github.com/An9rewRyan/golang_game_news_parser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=golang_game_news_parser&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
+ <li>🛠️ Never leave problem without </li>
+ 
+ <li>💡 Creative when it's necessary </li>
+ 
+ <li>🤔 Always thinking before doing </li>
+ 
+ <li>🗃️ Like to organize staff and work in team </li>
 
-# My tech stack: 
-### Python
-[![selenium - v1.3](https://img.shields.io/badge/selenium-v1.3-darkgreen)](https://selenium-python.readthedocs.io/)
-[![Django  - v4.1.1](https://img.shields.io/badge/Django_-v4.1.1-1f454d)](https://www.djangoproject.com/)
-[![Django rest framework - v3.14.0](https://img.shields.io/badge/Django_rest_framework-v3.14.0-31402f)](https://www.django-rest-framework.org/)
+<h1>🔥 My top projects: </h1>
+<a href="https://github.com/An9rewRyan/Securepass-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Securepass-project&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true"> </a>
+<a href="https://github.com/An9rewRyan/Gamers-Gazette-golang-backend-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-golang-backend-api&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true"></a>   
+<a href="https://github.com/An9rewRyan/Gamers-Gazette-frontend-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-frontend-react&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true"></a>
+<a href="https://github.com/An9rewRyan/golang_game_news_parser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=golang_game_news_parser&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true"></a>
+
+<h1> My tech stack: </h1>
+<h3> Python </h3>
+<a href="https://selenium-python.readthedocs.io/"><img src="https://img.shields.io/badge/selenium-v1.3-darkgreen"></a>
+<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django_-v4.1.1-1f454d"></a>
+<a href="https://www.django-rest-framework.org/"><img src="https://img.shields.io/badge/Django_rest_framework-v3.14.0-31402f"></a>
 [![Django Channels - v3.0.5](https://img.shields.io/badge/Django_Channels-v3.0.5-5d8d5d)](https://channels.readthedocs.io/en/stable/)
 [![Django Allauth - v0.43.0](https://img.shields.io/badge/Django_Allauth-v0.43.0-b4d6ad)](https://django-allauth.readthedocs.io/en/latest/)
 [![scrapy - v2.6.2](https://img.shields.io/badge/scrapy-v2.6.2-green)](https://scrapy.org/)
