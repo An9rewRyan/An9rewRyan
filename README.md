@@ -69,6 +69,10 @@
  <img src="https://img.shields.io/static/v1?label=FastAPI&message=v0.87.0&color=%23175617&style=for-the-badge" alt="FastAPI - v0.87.0">
 </a>
 
+<a href="https://pypi.org/project/aiogram/">
+ <img src="https://img.shields.io/static/v1?label=Aiogram&message=v2.23.1&color=%2375ff7e&style=for-the-badge" alt="Aiogram - v2.23.1">
+</a>
+
 <a href="https://scrapy.org/">
  <img src="https://img.shields.io/badge/scrapy-v2.6.2-green?style=for-the-badge">
 </a>
