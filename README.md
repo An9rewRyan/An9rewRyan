@@ -65,32 +65,30 @@
  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 </a>
 
-<a href="https://channels.readthedocs.io/en/stable/">
- <img src="https://img.shields.io/badge/Django_Channels-v3.0.5-5d8d5d">
-</a>
-
-<a href="https://django-allauth.readthedocs.io/en/latest/">
- <img src="https://img.shields.io/badge/Django_Allauth-v0.43.0-b4d6ad">
+<a href="https://fastapi.tiangolo.com/">
+ <img src="https://img.shields.io/static/v1?label=FastAPI&message=v0.87.0&color=%23175617&style=for-the-badge" alt="FastAPI - v0.87.0">
 </a>
 
 <a href="https://scrapy.org/">
- <img src="https://img.shields.io/badge/scrapy-v2.6.2-green">
+ <img src="https://img.shields.io/badge/scrapy-v2.6.2-green?style=for-the-badge">
 </a>
+
+
 
 </br>
 </br>
 </br>
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 <a href="https://github.com/gorilla/mux">
- <img src="https://img.shields.io/badge/gorilla%2Fmux-v1.8.0-3a95a8">
+ <img src="https://img.shields.io/badge/gorilla%2Fmux-v1.8.0-3a95a8?style=for-the-badge">
 </a>
 
 <a href="https://github.com/antchfx/htmlquery">
- <img src="https://img.shields.io/badge/Htmlquery-v1.2.4-4fa8e0">
+ <img src="https://img.shields.io/badge/Htmlquery-v1.2.4-4fa8e0?style=for-the-badge">
  </a>
  
 <a href="https://github.com/JackC/pgx">
- <img src="https://img.shields.io/badge/pgx-v4.14.0-8cefff">
+ <img src="https://img.shields.io/badge/pgx-v4.14.0-8cefff?style=for-the-badge">
 </a>
 </br>
 </br>
@@ -98,15 +96,15 @@
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <a href="https://reactjs.org/">
- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB?style=for-the-badge">
 </a>             
 
 <a href="https://expressjs.com/">
- <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+ <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB?style=for-the-badge">
 </a>
 
 <a href="https://www.npmjs.com/package/puppeteer">
- <img src="https://img.shields.io/badge/puppeteer-v13.5.2-a70b0b">
+ <img src="https://img.shields.io/badge/puppeteer-v13.5.2-a70b0b?style=for-the-badge">
 </a>
 
 
