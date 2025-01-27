@@ -14,21 +14,7 @@
 
 <h1>🔥 My top projects: </h1>
 
-<a href="https://github.com/An9rewRyan/Securepass-project">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Securepass-project&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
-</a>
 
-<a href="https://github.com/An9rewRyan/Gamers-Gazette-golang-backend-api">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-golang-backend-api&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
-</a>  
-
-<a href="https://github.com/An9rewRyan/Gamers-Gazette-frontend-react">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=Gamers-Gazette-frontend-react&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
-</a>
-
-<a href="https://github.com/An9rewRyan/golang_game_news_parser">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=An9rewRyan&repo=golang_game_news_parser&bg_color=0d1117&icon_color=E50914&text_color=ffffff&title_color=ffffff&hide_border=true">
-</a>
 
 <h1>🖥️ My tech stack: </h1>
 </br>
